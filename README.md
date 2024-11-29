@@ -1,18 +1,16 @@
-## Title of the Project
-Small description about the project like one below
-The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
-
+# Maternal Health Predictor Using Machine Learning
+Aimed at predicting health risks or outcomes for expecting mothers based on various health indicators and risk factors. It leverages machine learning algorithms to analyze and classify the risk level of maternal health conditions
 ## About
-<!--Detailed Description about the project-->
-Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
+The Maternal Health Predictor using machine learning is an innovative project aimed at improving maternal healthcare outcomes by identifying potential risks during pregnancy.
+This project not only enhances maternal health outcomes but also contributes to reducing global maternal mortality rates by leveraging the power of AI and machine learning
 
 ## Features
 <!--List the features of the project as shown below-->
-- Implements advance neural network method.
+- Implements advance machine learning method.
 - A framework based application for deployment purpose.
 - High scalability.
 - Less time complexity.
-- A specific scope of Chatbot response model, using json data format.
+- Used for medical purpose.
 
 ## Requirements
 <!--List the requirements of the project as shown below-->
@@ -27,33 +25,30 @@ Tailored Chatbot for Hostel Booking System is a project designed to integrate a 
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
 
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
+![maternal health care](https://github.com/user-attachments/assets/6bc50ee0-ce8a-427a-8f5e-ba245b31ab13)
 
 
-## Output
+## Output - code:
+![image](https://github.com/user-attachments/assets/861e8bd4-a36e-41e5-81c4-c07de3aa95ca)
 
-<!--Embed the Output picture at respective places as shown below as shown below-->
-#### Output1 - Name of the output
+#### Output1 :
+![webservice](https://github.com/user-attachments/assets/05c77e45-ba42-48c4-852e-f6ea5ff27d37)
 
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
-
-#### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
-
-Detection Accuracy: 96.7%
-Note: These metrics can be customized based on your actual performance evaluations.
-
+#### Output2 :
+![image](https://github.com/user-attachments/assets/59673192-b7bc-4baf-b01b-4c093c288a42)
 
 ## Results and Impact
-<!--Give the results and impact as shown below-->
-The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
+This prediction service has been developed as the final project of the MLOps Zoomcamp course from DataTalks.Club. It does not provide medical advice and it is intended for informational purposes only. It cannot be considered a substitute for professional medical advice, diagnosis or treatment. Never ignore professional medical advice in seeking treatment because of something you have read here.
 
 This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
 
 ## Articles published / References
-1. N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
-2. A. A. BIN ZAINUDDIN, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain”, Data Science Insights, vol. 2, no. 1, Feb. 2024.
+Ahmed, M., Kashem, M.A., Rahman, M., Khatun, S. (2020). Review and Analysis of Risk Factor of Maternal Health in Remote Area Using the Internet of Things (IoT). In: , *et al.* InECCE2019. Lecture Notes in Electrical Engineering, vol 632. Springer, Singapore. https://doi.org/10.1007/978-981-15-2317-5_30
 
+Ahmed, M. and Kashem, M. A. (2020). IoT Based Risk Level Prediction Model For Maternal Health Care In The Context Of Bangladesh. In: 2nd International Conference on Sustainable Technologies for Industry 4.0 (STI), 2020, pp. 1-6. https://doi.org/10.1109/STI50764.2020.9350320
 
+Dua, Dheeru, and Casey Graff. (2017). “UCI Machine Learning Repository.” University of California, Irvine, School of Information; Computer Sciences. http://archive.ics.uci.edu/ml.
+
+WHO. (2019). "Maternal mortality". World Health Organization. https://www.who.int/news-room/fact-sheets/detail/maternal-mortality
 
 
